@@ -1,0 +1,17 @@
+{
+  "name": "none-learning",
+  "version": "1.0.0",
+  "description": "Learning node, npm and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Shreyas Gantayet",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
